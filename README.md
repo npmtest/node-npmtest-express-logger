@@ -1,6 +1,6 @@
 # npmtest-express-logger
 
-#### test coverage for  [express-logger (v0.0.3)](http://github.com/joehewitt/express-logger)  [![npm package](https://img.shields.io/npm/v/npmtest-express-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-logger.svg)](https://travis-ci.org/npmtest/node-npmtest-express-logger)
+#### basic test coverage for  [express-logger (v0.0.3)](http://github.com/joehewitt/express-logger)  [![npm package](https://img.shields.io/npm/v/npmtest-express-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-logger.svg)](https://travis-ci.org/npmtest/node-npmtest-express-logger)
 
 #### Express middleware for auto-archiving log files.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-express-logger/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-express-logger/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-express-logger/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-express-logger/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-logger/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-logger/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-express-logger/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-express-logger/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-logger/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-logger/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-express-logger/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-express-logger/build/coverage.html/index.html)
 
@@ -73,7 +73,8 @@
         "type": "git",
         "url": "git+ssh://git@github.com/joehewitt/express-logger.git"
     },
-    "version": "0.0.3"
+    "version": "0.0.3",
+    "bin": {}
 }
 ```
 
